@@ -1,6 +1,20 @@
 body
 {
-    color: deeppink;
-    text-align: center;
+    color:blue;
+    text-align: left;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+#container
+{
+   width: 70%;
+   padding:1em;
+   text-align: left; 
+   border: 1px solid seagreen;
+   margin: auto; 
+}
+#container h1
+{
+    font-size: 20px;
+
 }
